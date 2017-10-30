@@ -1,0 +1,99 @@
+/* Weekdays (Mon-Sun) */
+.month1 {
+    padding: 25px;
+    width: 100%;
+    background: #A3C4D4;
+    text-align: center;
+    font-size:80px;
+}
+
+
+table, td, th{
+    border: 1px solid black;
+}
+
+th { 
+    color: black;
+    font-size:30px;
+    background: #B8B8B8;
+    width: 150px;
+}
+
+td{
+    vertical-align: top;
+    font-size:22px;
+    height: 70px;
+}
+
+.ui-widget {
+    font-family: Verdana,Arial,sans-serif;
+    font-size: .8em;
+}
+
+.ui-widget-content {
+    background:white;
+  /*Change the dialog border color here*/
+    border: 1px solid #CC99FF;
+    color: #222222;
+}
+
+.title{
+    margin-left: 20px;
+    width: 200px;
+}
+
+.start{
+    margin-left: 20px;
+    width: 201px;
+}
+
+.end{
+    margin-left: 28px;
+    width: 201px;
+}
+
+.ui-dialog {
+    left: 0;
+    outline: 0 none;
+    padding: 0 !important;
+    position: absolute;
+    top: 0;
+}
+
+#success {
+    padding: 0;
+    margin: 0; 
+}
+
+.ui-dialog .ui-dialog-content {
+    background:  repeat scroll 0 0 transparent;
+    border: 0 none;
+    overflow: auto;
+    position: relative;
+    padding: 0 !important;
+}
+
+.ui-widget-header {
+  /*Change the Header color here*/
+    background: black;
+    border: 0;
+    color: #fff;
+    text-align: center;
+    font-weight: normal;
+}
+
+.ui-dialog-titlebar-close{
+    position: absolute;
+    color: white;
+    right: 3px;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+    padding: 0.1em .5em;
+    position: relative;
+    font-size: 1em;
+}
+
+.events {
+    font-size: 13px;
+}
