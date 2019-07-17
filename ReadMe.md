@@ -1,5 +1,6 @@
-URL:
-http://ec2-13-58-179-213.us-east-2.compute.amazonaws.com/~harrisonlu/mod5/calendar
+# Calendar
+
+The following is a class project in which we created a calendar that users could place their events into. We utilized asynchronous function calls to populate our calendar wtih events. Following is a description of the class project. The "Creative Portion" is a portion of points that are dedicated to the level of difficulty with which we implemented features that were not required by the rubric. 
 
 Creative Portion:
 Users are able to delete their accounts, which will also delete all their events associated with the account. 
