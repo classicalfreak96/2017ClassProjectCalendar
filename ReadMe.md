@@ -14,3 +14,5 @@ To delete and modify events, a user can click once on the event they would like 
 Miscellaneous:
 - Worked on project in Chrome, so features show up best in Chrome.
 - Create a new user to login. 
+
+*Unfortunately, due to the age of this class project, the code is no longer being hosted on an amazon server.*
